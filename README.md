@@ -4,7 +4,7 @@ prerequisites : Java, Docker installed on the system
 
 To run 
 ```md
-1. docker-compose up -d
+1. docker compose up -d
 ```
 
 ```md
